@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakesh-dev05
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JAVASCRIPT, SQL
-- 📫 How to reach me [rakeshfoss6@gmail.com](mailto:rakeshfoss6@gmail.com)
+- 📫 Reach me at [rakeshfoss6@gmail.com](mailto:rakeshfoss6@gmail.com)
 <!--- 💞️ I’m looking to collaborate on ... --->
 
 <!---
