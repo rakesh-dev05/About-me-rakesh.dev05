@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakesh-dev05
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JAVASCRIPT, SQL
+- 🌱 I’m currently learning JAVASCRIPT, NODE.JS, EXPRESS JS, MONGODB
 - 📫 Reach me at [rakeshfoss6@gmail.com](mailto:rakeshfoss6@gmail.com)
 <!--- 💞️ I’m looking to collaborate on ... --->
 
